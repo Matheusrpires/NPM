@@ -1,2 +1,2 @@
 # NPM
-Entrega da cópia NPM
+Entrega da cópia do site NPM
